@@ -1,2 +1,2 @@
 # Portfolio
-My Personal Portfolio Website - HTML, CSS, JS
+My Personal Portfolio Website - HTML, CSS, JS,Images,Resume
